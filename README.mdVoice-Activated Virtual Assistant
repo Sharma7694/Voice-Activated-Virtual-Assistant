@@ -1,0 +1,24 @@
+# 🎙️ Voice-Activated Virtual Assistant
+
+A browser-based virtual assistant built using HTML, CSS, and JavaScript that responds to user voice commands using the Web Speech API.
+
+## 🚀 Features
+
+- 🎤 Voice recognition (Speech to Text)
+- 🗣️ Speech response (Text to Speech)
+- 🕒 Get current time and date
+- 🌐 Open websites like YouTube, Facebook, Instagram, WhatsApp
+- 💬 Understands greetings and basic commands
+- 🔊 Interactive UI with mic animation and effects
+
+## 🛠️ Tech Stack
+
+- HTML5, CSS3, JavaScript
+- Web Speech API (SpeechRecognition + SpeechSynthesis)
+
+## 📸 Screenshots
+
+> (Add screenshots here if you have)
+
+## 📁 Project Structure
+
